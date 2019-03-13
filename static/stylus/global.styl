@@ -1,0 +1,66 @@
+/*vari-function-start 函数定义*/
+    add(a,b = a)
+        a = unit(a, px)
+        b = unit(b, px)
+        a + b
+/*vari-function-end 函数定义*/
+
+/*vari-start公共参数定义*/
+    //colorDefined
+    $mainColor = #356de0;
+    $whiteColor = #fff;
+    $grayColor = #333;
+    $darkbkg = #545c64
+    //fontSizeDefined
+    $fontSizeSmall = add(7, 7)
+    $fontSizeDefault = add(8, 8)
+/*vari-end*/
+
+/*layout-start*/
+    html,body {
+        margin: add(0, 0);
+        padding: add(0, 0);  
+        box-sizing: border-box;  
+    }
+    #app {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: add(0, 0);
+        bottom: add(0, 0);
+        left: add(0, 0);
+        right: add(0, 0);
+    }
+    .el-header {
+        background-color: $mainColor;
+        color: $whiteColor;
+        font-size: $fontSizeSmall;
+        text-align: center;
+        line-height: add(30, 30);
+    }
+  
+    .el-aside {
+        background-color: $darkbkg;
+        text-align: center;
+        // border-right: 
+    }
+  
+    .el-main {
+        background-color: $whiteColor;
+        color: $grayColor;
+        text-align: center;
+        // line-height: 160px;
+    }
+/*layout-end*/
+
+/*header-start*/
+/*header-end*/
+
+/*nav-start*/
+/*nav-end*/
+
+/*tablelist-start*/
+/*tablelist-end*/
+
+/*detail-start*/
+/*detail-end*/
