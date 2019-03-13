@@ -19,12 +19,12 @@ export default {
     const that = this;
     let data = {};
     that.$http(that.$api.tablelists(),data).then(function(xhr){
-      that.listData = xhr.data.data
-      console.log(that.listData)
+      that.listData = xhr.data.data;
+      console.log(that.listData);
     })
     that.$http(that.$api.pageInfo(),data).then(function(xhr){
-      that.pageInfo = xhr.data.data
-      console.log(that.pageInfo)
+      that.pageInfo = xhr.data.data;
+      console.log(that.pageInfo);
     })
   }
 }
