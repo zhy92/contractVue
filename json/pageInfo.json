@@ -3,6 +3,6 @@
         "pageSize": 20,
         "layout": "total, sizes, prev, pager, next, jumper",
         "total": 400,
-        "pageSizeSelect": [100, 200, 300, 400]
+        "pageSizeSelect": [10, 20, 30, 40]
     }
 }

@@ -26,6 +26,7 @@
       },
       handleCurrentChange(val) {
         console.log(`当前页: ${val}`);
+        this.$emit('pageChange',val)
       }
     },
     data() {

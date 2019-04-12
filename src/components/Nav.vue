@@ -7,7 +7,7 @@
         background-color="#545c64"
         text-color="#fff"
         active-text-color="#ffd04b"
-        router=true
+        :router=true
         >
         <el-menu-item v-for="(nav,index) in navData" :key="index"  :index="nav.navRoute">
           <icon-svg :icon-class="nav.navIcon" />

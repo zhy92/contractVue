@@ -45,6 +45,10 @@ export default new Router({
             name: "drafts",
             component: () =>
                 import ("../views/drafts.vue")
+        },
+        {
+            path: "*",
+            redirect: "/"
         }
     ]
 });

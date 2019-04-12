@@ -1,14 +1,13 @@
 <template>
   <el-table
-    :data="tableData.rowContent"
+    :data="contentData"
     border
     style="width: 100%">
     <el-table-column
       fixed
       :prop="row.prop"
       :label="row.lable"
-      width="150"
-      v-for="row in tableData.rowTitle"
+      v-for="row in titleData"
       :key="row.id">
     </el-table-column>
   </el-table>
@@ -18,8 +17,12 @@
   export default {
     name: 'table-list',
     props: {
-        listData: {
-          type: Object,
+        titleData: {
+          type: Array,
+          required: true
+        },
+        contentData: {
+          type: Array,
           required: true
         }
     },  
@@ -30,7 +33,7 @@
     },
     data() {
       return {
-        tableData: this.listData
+        //tableData: this.listData
       }
     },
     created(){
