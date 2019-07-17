@@ -8,7 +8,8 @@ let navArray = [{
     'navIcon': 'bi'
 }, {
     'navName': '待他人确认',
-    'navRoute': '/needOtherRec',
+    // 'navRoute': '/needOtherRec',
+    'navRoute': '/needOtherSign',
     'navIcon': 'dengdaiqueren'
 }, {
     'navName': '签署完成',
@@ -21,6 +22,10 @@ let navArray = [{
 }, {
     'navName': '草稿箱',
     'navRoute': '/drafts',
+    'navIcon': 'caogao'
+}, {
+    'navName': '详情页',
+    'navRoute': '/detail',
     'navIcon': 'caogao'
 }]
 

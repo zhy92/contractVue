@@ -2,7 +2,7 @@
     "data": {
         "pageSize": 20,
         "layout": "total, sizes, prev, pager, next, jumper",
-        "total": 400,
+        "total": 4,
         "pageSizeSelect": [10, 20, 30, 40]
     }
 }

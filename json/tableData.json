@@ -1,205 +1,202 @@
 {
-    "code": "0",
-    "data": {
-        "startRow": 1,
-        "lastPage": 1,
-        "navigatepageNums": [
-            1
-        ],
-        "prePage": 0,
-        "hasNextPage": false,
-        "nextPage": 0,
-        "pageSize": 10,
-        "endRow": 4,
-        "list": [{
-                "currentParentUserId": 860,
-                "addTime": "2018-10-08 17:28:57",
-                "entName": "税鸽飞腾信息科技有限公司",
-                "contractType": 0,
-                "contractTemplateTypeName": "买卖合同",
-                "needSigner": "1",
-                "currentUserHandleType": "2",
-                "currentUserEntId": -1,
-                "currentParentUserEntId": 1,
-                "applyId": "1049230152124346368",
-                "operationList": [{
-                        "operationKey": "11",
-                        "operationCode": "qs",
-                        "operationName": "签署",
-                        "operationType": "1",
-                        "operationSort": 8,
-                        "operationRemark": "签署"
-                    },
-                    {
-                        "operationKey": "12",
-                        "operationCode": "jq",
-                        "operationName": "拒签",
-                        "operationType": "0",
-                        "operationSort": 9,
-                        "operationRemark": "拒签"
-                    }
-                ],
-                "currentUserId": 761,
-                "needSignFlag": 0,
-                "contractName": "rrrrrr",
-                "state": "1",
-                "id": 1049230129194086400,
-                "adaptedState": "1",
-                "entId": 1,
-                "signEntName": [
-                    "个人"
-                ],
-                "updateTime": "2018-10-08 17:28:57",
-                "userName": "高志辉",
-                "userId": 860,
-                "signObjectType": "1",
-                "currentParentUserHandleType": "0",
-                "contractTemplateTypeCommonFlag": "1",
-                "contractId": 1049230129194086400,
-                "contractTemplateType": "10264"
-            },
-            {
-                "currentParentUserId": 860,
-                "addTime": "2018-10-08 17:25:36",
-                "entName": "税鸽飞腾信息科技有限公司",
-                "contractType": 0,
-                "contractTemplateTypeName": "买卖合同",
-                "needSigner": "1",
-                "currentUserHandleType": "2",
-                "currentUserEntId": -1,
-                "currentParentUserEntId": 1,
-                "applyId": "1049229311883620352",
-                "operationList": [{
-                        "operationKey": "11",
-                        "operationCode": "qs",
-                        "operationName": "签署",
-                        "operationType": "1",
-                        "operationSort": 8,
-                        "operationRemark": "签署"
-                    },
-                    {
-                        "operationKey": "12",
-                        "operationCode": "jq",
-                        "operationName": "拒签",
-                        "operationType": "0",
-                        "operationSort": 9,
-                        "operationRemark": "拒签"
-                    }
-                ],
-                "currentUserId": 761,
-                "needSignFlag": 0,
-                "contractName": "rrrrrr",
-                "state": "1",
-                "id": 1049229219537629184,
-                "adaptedState": "1",
-                "entId": 1,
-                "signEntName": [
-                    "个人"
-                ],
-                "updateTime": "2018-10-08 17:25:36",
-                "userName": "高志辉",
-                "userId": 860,
-                "signObjectType": "1",
-                "currentParentUserHandleType": "0",
-                "contractTemplateTypeCommonFlag": "1",
-                "contractId": 1049229219537629184,
-                "contractTemplateType": "10264"
-            },
-            {
-                "addTime": "2018-09-29 22:28:25",
-                "entName": "税鸽飞腾信息科技有限公司",
-                "contractType": 1,
-                "contractTemplateTypeName": "买卖合同",
-                "needSigner": "0",
-                "currentUserEntId": 1,
-                "applyId": "1046044074324279296",
-                "operationList": [{
-                        "operationKey": "18",
-                        "operationCode": "cx",
-                        "operationName": "撤销",
-                        "operationType": "0",
-                        "operationSort": 3,
-                        "operationRemark": "撤销"
-                    },
-                    {
-                        "operationKey": "17",
-                        "operationCode": "wcqs",
-                        "operationName": "完成签署",
-                        "operationType": "1",
-                        "operationSort": 10,
-                        "operationRemark": "完成签署"
-                    }
-                ],
-                "currentUserId": 761,
-                "needSignFlag": 1,
-                "contractName": "44444444444444",
-                "state": "4",
-                "id": 2647,
-                "adaptedState": "1",
-                "entId": 1,
-                "signEntName": [
-                    "个人"
-                ],
-                "updateTime": "2018-09-29 22:28:37",
-                "userName": "陈羽茜",
-                "userId": 761,
-                "signObjectType": "0",
-                "contractTemplateTypeCommonFlag": "1",
-                "contractId": "2647",
-                "contractTemplateType": "10264"
-            },
-            {
-                "addTime": "2018-09-28 10:26:13",
-                "entName": "税鸽飞腾信息科技有限公司",
-                "contractType": 1,
-                "contractTemplateTypeName": "买卖合同",
-                "needSigner": "0",
-                "currentUserEntId": 1,
-                "applyId": "1045499954535088128",
-                "operationList": [{
-                        "operationKey": "17",
-                        "operationCode": "wcqs",
-                        "operationName": "完成签署",
-                        "operationType": "1",
-                        "operationSort": 10,
-                        "operationRemark": "完成签署"
-                    },
-                    {
-                        "operationKey": "18",
-                        "operationCode": "cx",
-                        "operationName": "撤销",
-                        "operationType": "0",
-                        "operationSort": 3,
-                        "operationRemark": "撤销"
-                    }
-                ],
-                "currentUserId": 761,
-                "needSignFlag": 1,
-                "contractName": "桐庐只跑一次之智能印章系统部署网络环境需求_contract",
-                "state": "4",
-                "id": 2589,
-                "adaptedState": "1",
-                "entId": 1,
-                "signEntName": [
-                    "个人"
-                ],
-                "updateTime": "2018-09-28 10:26:28",
-                "userName": "陈羽茜",
-                "userId": 761,
-                "signObjectType": "0",
-                "contractTemplateTypeCommonFlag": "1",
-                "contractId": "2589",
-                "contractTemplateType": "10264"
-            }
-        ],
-        "pageNum": 1,
-        "navigatePages": 8,
-        "total": 4,
-        "pages": 1,
-        "firstPage": 1,
-        "size": 4,
-        "isLastPage": true,
-        "hasPreviousPage": false,
-        "isFirstPage": true
-    }
+    "startRow": 1,
+    "lastPage": 1,
+    "navigatepageNums": [
+        1
+    ],
+    "prePage": 0,
+    "hasNextPage": false,
+    "nextPage": 0,
+    "pageSize": 10,
+    "endRow": 4,
+    "list": [{
+            "currentParentUserId": 860,
+            "addTime": "2018-10-08 17:28:57",
+            "entName": "税鸽飞腾信息科技有限公司",
+            "contractType": 0,
+            "contractTemplateTypeName": "买卖合同",
+            "needSigner": "1",
+            "currentUserHandleType": "2",
+            "currentUserEntId": -1,
+            "currentParentUserEntId": 1,
+            "applyId": "1049230152124346368",
+            "operationList": [{
+                    "operationKey": "11",
+                    "operationCode": "qs",
+                    "operationName": "签署",
+                    "operationType": "1",
+                    "operationSort": 8,
+                    "operationRemark": "签署"
+                },
+                {
+                    "operationKey": "12",
+                    "operationCode": "jq",
+                    "operationName": "拒签",
+                    "operationType": "0",
+                    "operationSort": 9,
+                    "operationRemark": "拒签"
+                }
+            ],
+            "currentUserId": 761,
+            "needSignFlag": 0,
+            "contractName": "rrrrrr",
+            "state": "1",
+            "id": 1049230129194086400,
+            "adaptedState": "1",
+            "entId": 1,
+            "signEntName": [
+                "个人"
+            ],
+            "updateTime": "2018-10-08 17:28:57",
+            "userName": "高志辉",
+            "userId": 860,
+            "signObjectType": "1",
+            "currentParentUserHandleType": "0",
+            "contractTemplateTypeCommonFlag": "1",
+            "contractId": 1049230129194086400,
+            "contractTemplateType": "10264"
+        },
+        {
+            "currentParentUserId": 860,
+            "addTime": "2018-10-08 17:25:36",
+            "entName": "税鸽飞腾信息科技有限公司",
+            "contractType": 0,
+            "contractTemplateTypeName": "买卖合同",
+            "needSigner": "1",
+            "currentUserHandleType": "2",
+            "currentUserEntId": -1,
+            "currentParentUserEntId": 1,
+            "applyId": "1049229311883620352",
+            "operationList": [{
+                    "operationKey": "11",
+                    "operationCode": "qs",
+                    "operationName": "签署",
+                    "operationType": "1",
+                    "operationSort": 8,
+                    "operationRemark": "签署"
+                },
+                {
+                    "operationKey": "12",
+                    "operationCode": "jq",
+                    "operationName": "拒签",
+                    "operationType": "0",
+                    "operationSort": 9,
+                    "operationRemark": "拒签"
+                }
+            ],
+            "currentUserId": 761,
+            "needSignFlag": 0,
+            "contractName": "rrrrrr",
+            "state": "1",
+            "id": 1049229219537629184,
+            "adaptedState": "1",
+            "entId": 1,
+            "signEntName": [
+                "个人"
+            ],
+            "updateTime": "2018-10-08 17:25:36",
+            "userName": "高志辉",
+            "userId": 860,
+            "signObjectType": "1",
+            "currentParentUserHandleType": "0",
+            "contractTemplateTypeCommonFlag": "1",
+            "contractId": 1049229219537629184,
+            "contractTemplateType": "10264"
+        },
+        {
+            "addTime": "2018-09-29 22:28:25",
+            "entName": "税鸽飞腾信息科技有限公司",
+            "contractType": 1,
+            "contractTemplateTypeName": "买卖合同",
+            "needSigner": "0",
+            "currentUserEntId": 1,
+            "applyId": "1046044074324279296",
+            "operationList": [{
+                    "operationKey": "18",
+                    "operationCode": "cx",
+                    "operationName": "撤销",
+                    "operationType": "0",
+                    "operationSort": 3,
+                    "operationRemark": "撤销"
+                },
+                {
+                    "operationKey": "17",
+                    "operationCode": "wcqs",
+                    "operationName": "完成签署",
+                    "operationType": "1",
+                    "operationSort": 10,
+                    "operationRemark": "完成签署"
+                }
+            ],
+            "currentUserId": 761,
+            "needSignFlag": 1,
+            "contractName": "44444444444444",
+            "state": "4",
+            "id": 2647,
+            "adaptedState": "1",
+            "entId": 1,
+            "signEntName": [
+                "个人"
+            ],
+            "updateTime": "2018-09-29 22:28:37",
+            "userName": "陈羽茜",
+            "userId": 761,
+            "signObjectType": "0",
+            "contractTemplateTypeCommonFlag": "1",
+            "contractId": "2647",
+            "contractTemplateType": "10264"
+        },
+        {
+            "addTime": "2018-09-28 10:26:13",
+            "entName": "税鸽飞腾信息科技有限公司",
+            "contractType": 1,
+            "contractTemplateTypeName": "买卖合同",
+            "needSigner": "0",
+            "currentUserEntId": 1,
+            "applyId": "1045499954535088128",
+            "operationList": [{
+                    "operationKey": "17",
+                    "operationCode": "wcqs",
+                    "operationName": "完成签署",
+                    "operationType": "1",
+                    "operationSort": 10,
+                    "operationRemark": "完成签署"
+                },
+                {
+                    "operationKey": "18",
+                    "operationCode": "cx",
+                    "operationName": "撤销",
+                    "operationType": "0",
+                    "operationSort": 3,
+                    "operationRemark": "撤销"
+                }
+            ],
+            "currentUserId": 761,
+            "needSignFlag": 1,
+            "contractName": "桐庐只跑一次之智能印章系统部署网络环境需求_contract",
+            "state": "4",
+            "id": 2589,
+            "adaptedState": "1",
+            "entId": 1,
+            "signEntName": [
+                "个人"
+            ],
+            "updateTime": "2018-09-28 10:26:28",
+            "userName": "陈羽茜",
+            "userId": 761,
+            "signObjectType": "0",
+            "contractTemplateTypeCommonFlag": "1",
+            "contractId": "2589",
+            "contractTemplateType": "10264"
+        }
+    ],
+    "pageNum": 1,
+    "navigatePages": 8,
+    "total": 4,
+    "pages": 1,
+    "firstPage": 1,
+    "size": 4,
+    "isLastPage": true,
+    "hasPreviousPage": false,
+    "isFirstPage": true
 }

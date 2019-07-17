@@ -28,6 +28,13 @@ apiInterface.pageInfo = function() {
     };
     return p;
 };
+apiInterface.tableData = function() {
+    var p = {
+        url: 'api/tableData',
+        method: 'post'
+    };
+    return p;
+};
 
 //const Apisetting = {...apiInterface };
 

@@ -7,9 +7,9 @@
         background-color="#545c64"
         text-color="#fff"
         active-text-color="#ffd04b"
-        :router=true
+        
         >
-        <el-menu-item v-for="(nav,index) in navData" :key="index"  :index="nav.navRoute">
+        <el-menu-item v-for="(nav,index) in navData" :key="index"  :index="nav.navRoute" @click="routerChange(nav)">
           <icon-svg :icon-class="nav.navIcon" />
           <span slot="title">{{nav.navName}}</span>
         </el-menu-item>
@@ -28,6 +28,12 @@ export default {
   data() {
     return {
       navData: navApi
+    }
+  },
+  methods:{
+    routerChange: function(navItem){
+      this.$router.push({path: navItem.navRoute, query: {selected: navItem.navName}});
+      // this.$router.push({ name: navItem.navRoute, params: { userId: navItem.navName }})
     }
   }
 };
